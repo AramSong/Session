@@ -24,7 +24,7 @@ cookie를 좀 더 안전하고 scalable한 효과를 낼 수 있는 방법.(개�
 
 
 ### Session 설치
-![1549860620403](https://user-images.githubusercontent.com/38032500/52551819-684a2980-2e21-11e9-8e62-6a946287adec.png)
+![1549852480197](https://user-images.githubusercontent.com/38032500/52551821-68e2c000-2e21-11e9-9126-7dff6e218dbd.png)
 
 **<실습1>**
 
@@ -58,8 +58,8 @@ app.use(session({
 
 `store: new FileStore(options)`세션 데이터를 저장하는 디렉토리를 만든다 
 
-![1549852480197](https://user-images.githubusercontent.com/38032500/52551821-68e2c000-2e21-11e9-9126-7dff6e218dbd.png)
 
+![1549860620403](https://user-images.githubusercontent.com/38032500/52551819-684a2980-2e21-11e9-8e62-6a946287adec.png)
 
 => session 디렉토리가 생김 : `sessions`
 
